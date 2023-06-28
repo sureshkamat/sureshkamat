@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#fde1e8;font-size:78%;">Hello Developers here is <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= 40px>< Kamalakanta/></h1>
+<h1 align="center" style="color:#fde1e8;font-size:78%;">Hello Developers here is <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= 40px>< Suresh Kamat/></h1>
 <!-- <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <h4 align="center">
@@ -25,17 +25,17 @@ I'm a full-stack web developer with experience in both front-end and back-end te
 
 - <img  width = 30px height = 30px src="https://em-content.zobj.net/source/skype/289/film-projector_1f4fd-fe0f.png"> All of my projects are available at **[My Portfolio]()**
 
-- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/see-no-evil-monkey_1f648.png">How to reach me **mahapatrak898.kkm@gmail.com**
+- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/see-no-evil-monkey_1f648.png">How to reach me **sureshkamat108@gmail.com**
 
-- <img width=30px height=30px src="https://em-content.zobj.net/source/microsoft-teams/363/ghost_1f47b.png"> Fun fact - **I love to do swimming and have a keen interest in ART & CRAFT**
+- <img width=30px height=30px src="https://em-content.zobj.net/source/microsoft-teams/363/ghost_1f47b.png"> Fun fact - **I love to do swimming and have a keen interest in Travelling**
 <p style="margin-top:80px">
 
  ## Connect me on:    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="120px" height="50px" >
 
 <div style="display:flex;gap:20px">
-<a href = "https://www.linkedin.com/in/kamalakanta-mahapatra-082825208/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="mailto:mahapatrak898.kkm@gmail.com"><img width=43px height=45px src="https://camo.githubusercontent.com/70917cb7756d2e3f19d86872d89102269d6aed7115a7be64f29bbf1aed12baf9/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3838382f3838383835332e706e67"></a>
-<a href="https://api.whatsapp.com/send?phone=9777846347"><img width=40px height=43px src="https://camo.githubusercontent.com/6590702cef8b9697656ce084d83381fa8a9de03b317fbef452288f00d1085b9a/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3733332f3733333538352e706e67"></a>
+<a href = "https://www.linkedin.com/in/suresh-k-69588a107/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:sureshkamat108@gmail.com"><img width=43px height=45px src="https://camo.githubusercontent.com/70917cb7756d2e3f19d86872d89102269d6aed7115a7be64f29bbf1aed12baf9/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3838382f3838383835332e706e67"></a>
+<a href="https://api.whatsapp.com/send?phone=9568965225"><img width=40px height=43px src="https://camo.githubusercontent.com/6590702cef8b9697656ce084d83381fa8a9de03b317fbef452288f00d1085b9a/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3733332f3733333538352e706e67"></a>
 
 </div>
 
@@ -68,8 +68,8 @@ I'm a full-stack web developer with experience in both front-end and back-end te
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Kamalakanta01/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="deepshikha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamalakanta01&theme=radical&hide_border=true&stroke=0000&background=#122722"/>
+    <a href="https://github.com/sureshkamat/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="suresh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sureshkamat&theme=radical&hide_border=true&stroke=0000&background=#122722"/>
     </a>
 </p>
 
@@ -79,15 +79,15 @@ I'm a full-stack web developer with experience in both front-end and back-end te
  
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamalakanta01&theme=2077">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sureshkamat&theme=2077">
   </div>
   <div style="display: flex; justify-content: space-around; width: 100%;margin:20px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamalakanta01&theme=2077">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamalakanta01&theme=2077">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sureshkamat&theme=2077">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sureshkamat&theme=2077">
   </div>
   <div style="display: flex; justify-content: space-around;  width: 100%;margin:20px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamalakanta01&theme=2077">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kamalakanta01&theme=2077&utcOffset=8">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sureshkamat&theme=2077">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sureshkamat&theme=2077&utcOffset=8">
   </div>
 </div>
 
