@@ -29,7 +29,10 @@ I'm a full-stack web developer with experience in both front-end and back-end te
 
 - <img width=30px height=30px src="https://em-content.zobj.net/source/microsoft-teams/363/ghost_1f47b.png"> Fun fact - **I love to do swimming and have a keen interest in Travelling**
 <p style="margin-top:80px">
-
+    
+<h2>Portfolio</h2>
+  <p>Check out my portfolio at <a href="https://sureshkamat.github.io">https://sureshkamat.github.io</a></p>
+  
  ## Connect me on:    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="120px" height="50px" >
 
 <div style="display:flex;gap:20px">
@@ -97,3 +100,14 @@ I'm a full-stack web developer with experience in both front-end and back-end te
 
 
 </p>
+
+ <h2>❤ Views and Followers :</h2>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/sureshkamat/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=sureshkamat" >
+    </a>
+    <a href="https://github.com/sureshkamat?tab=followers">
+        <img src="https://img.shields.io/github/followers/sureshkamat?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+    <hr />
+    <h2><a href="https://sureshkamat.github.io/">🌍 | Portfolio </a></h2>
+    <h1 align="center">Thank You !</h1>
